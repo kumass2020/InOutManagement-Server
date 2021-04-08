@@ -1,2 +1,2 @@
 # InOutManagement-Server
-using WiFi and Bluetooth with Android client
+using WiFi and Bluetooth targeting Android client
